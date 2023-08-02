@@ -1,0 +1,49 @@
+Library Proj
+_
+
+
+user roles
+=>admin
+=>user
+
+
+Admin
+=>CRUD(books)
+=>CRUD(authors)
+=>CRUD(categories)
+=>CRUD(user) => Register
+=>Rent ()
+
+
+User
+----
+=> Show Rent Books ()
+=> update Profile
+
+
+
+
+
+
+
+-------------------------------
+1. Create subdomain
+2. In file manager
+	-find folder
+	-upload zip file into folder
+
+3. Database / Mysql Databases
+	-create Database
+	-create User (password)
+	-Add user to database
+
+4. PHP Myadmin
+	-Export from localhost
+	-Import To
+
+5. Extract Zip File
+	-remove into subdomain folder
+
+6. Edit Database Configuration file
+	
+
